@@ -1,0 +1,6 @@
+{
+  "name": "Remix Gauntlet: Mutant Lab & Heist Vault",
+  "description": "4-player challenge exchange: design lethal laboratory slabs and high-security vaults with drag-and-drop hurdles, then survive each other's gauntlets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
